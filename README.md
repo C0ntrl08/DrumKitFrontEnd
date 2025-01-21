@@ -46,5 +46,3 @@ The idea of the project, the images, as well as the sounds, are not my property.
 3. **Footer Acknowledgment**:
    - The footer at the bottom of the page acknowledges Dr. Angela Yu for her contributions to web development education.
 
-## Project Structure
-
